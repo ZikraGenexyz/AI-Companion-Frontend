@@ -1,0 +1,1 @@
+ /Users/rifatgenezyx/Documents/Projects/AI-Companion/flutter_frontend/ai_companion/.dart_tool/flutter_build/bd66aee7b2b125d6db55226fae5aae8e/native_assets.json: 
